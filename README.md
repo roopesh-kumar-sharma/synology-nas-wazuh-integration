@@ -89,13 +89,13 @@ Configuration details may differ across DSM and Wazuh versions.
 
 Covers syslog configuration, network verification, Wazuh archive logging, index discovery, and event visualization.
 
-**Guide:** [Part 1: Centralized Logging](docs/part-1-centralized-logging.md)
+**Guide:** [Part 1: Centralized Logging](https://medium.com/@rupesharma203/integrating-synology-nas-with-wazuh-for-centralized-log-monitoring-and-visualization-0f82e7180d63)
 
 ### Part 2: Authentication Event Monitoring
 
 Covers custom decoders, detection rules, decoder testing, live alert verification, and dashboard creation.
 
-**Guide:** [Part 2: Authentication Monitoring](docs/part-2-authentication-monitoring.md)
+**Guide:** [Part 2: Authentication Monitoring](https://medium.com/@rupesharma203/monitoring-synology-nas-authentication-events-with-wazuh-custom-decoders-rules-and-dashboards-dfea97a01604)
 
 ## Repository Structure
 
