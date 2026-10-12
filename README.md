@@ -22,13 +22,13 @@ Versions and configurations may need adjustment for other environments.
 
 Covers syslog forwarding, listener configuration, archive logging, index verification, and log visualization.
 
-[Read Part 1](docs/part-1-centralized-logging.md)
+[Read Part 1](https://medium.com/@rupesharma203/integrating-synology-nas-with-wazuh-for-centralized-log-monitoring-and-visualization-0f82e7180d63)
 
 ### Part 2: Authentication Monitoring
 
 Covers custom decoders, detection rules, testing, live alert verification, and authentication dashboards.
 
-[Read Part 2](docs/part-2-authentication-monitoring.md)
+[Read Part 2](https://medium.com/@rupesharma203/monitoring-synology-nas-authentication-events-with-wazuh-custom-decoders-rules-and-dashboards-dfea97a01604)
 
 ## Configuration Files
 
